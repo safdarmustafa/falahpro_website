@@ -2,8 +2,7 @@
  * Update this ONE value after Cloudflare Pages deployment.
  * Example: "https://falahpro-website.pages.dev"
  */
-export const SITE_URL = 'https://YOUR_PROJECT.pages.dev'
-
+export const SITE_URL = "https://falahpro-website.pages.dev";
 export const SITE = {
   name: 'Falah Pro',
   tagline: 'Built for Every Muslim',
